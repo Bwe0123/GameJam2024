@@ -13,6 +13,8 @@ Main Objectives of the Game:
 2. Repairing Wiring in Houses:
    The wiring in the village houses has started to malfunction, posing a serious problem for the residents. Players are tasked with repairing the wiring to restore comfort and safety in the homes.
 3. Cleaning Up Garbage:   The village has become inundated with garbage, which is having a negative impact on the environment and the lives of the residents. Players must clean up the garbage throughout the village
+# Presentation
+https://www.canva.com/design/DAGDEH7GxOg/_5p5Upp9LHeCpd-e0g92iA/edit?utm_content=DAGDEH7GxOg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Trello
 
