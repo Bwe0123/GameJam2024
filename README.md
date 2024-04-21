@@ -1,3 +1,5 @@
+[![Python 3.12.3](https://img.shields.io/badge/python-3.12.3-blue.svg)](https://www.python.org/downloads/release/python-3123/)
+
 # Kelgenbayev hackathon project
 
 
@@ -26,4 +28,34 @@ https://trello.com/invite/b/sM91gqeX/ATTI590654513e501b2b593d3e7d554983460EF9258
 ![](https://github.com/Bwe0123/GameJam2024/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-21%20231121.png)
 ![](https://github.com/Bwe0123/GameJam2024/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-21%20231140.png)
 ## Begin game
- Launch via MainMap.py
+1.install python 
+2.clone this project:
+```sh
+git clone https://github.com/Bwe0123/GameJam2024.git
+```
+3.install pygame on terminal
+shell (windows):
+```sh
+python -m pip install pygame
+```
+mac:
+```sh
+python3 -m pip install pygame pygame 
+```
+
+4.launch this project
+```sh
+cd GameJam2024
+python MainMap.py
+```
+
+or
+
+```sh
+cd GameJam2024
+python3 MainMap.py
+```
+
+
+5. enjoy! ^_^
+
