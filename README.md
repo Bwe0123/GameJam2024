@@ -1,28 +1,24 @@
-# О проекте
+# Kelgenbayev hackathon project
+
+
+# About a project
+
 
 Game Title: Ruracles
 Game Objective: 
 The goal of "Ruracles" is to improve the quality of life in the village, help its residents, and restore harmony to the surrounding environment.
 Plot: In "Ruracles," players immerse themselves in the everyday life of an ordinary village, where each day brings its own challenges and adventures. They take on the role of reliable helpers and defenders of the village, tackling various problems and difficulties.
 Main Objectives of the Game:
+1. Capturing Rabid Dogs:  Players must capture rabid dogs that have become a threat to the village residents. They must be cautious and use agility to safely capture the dog and deliver it to a safe location.
+2. Repairing Wiring in Houses:
+   The wiring in the village houses has started to malfunction, posing a serious problem for the residents. Players are tasked with repairing the wiring to restore comfort and safety in the homes.
+3. Cleaning Up Garbage:   The village has become inundated with garbage, which is having a negative impact on the environment and the lives of the residents. Players must clean up the garbage throughout the village
 
 
-## Ссылка
-Live Demo: https://nfacdogs.vercel.app
-
-## Функции
-1) Функция поиска породы
-2) Чат с исскуственным интеллектом, который настроен как собака. Использована API от OpenAI.
-3) Бонусная мини-игра
-
-## Структура сайта
-1) Frontend - написан на ванильным html\css\js. Backend - написан на js + axios.
-2) Главное меню включает в себе уникальный скролл-фрейм, разный контент по разным категориям.
-3) Для парсинга использован API - DOGCEO
-
-## Скриншоты
-![](https://github.com/Bwe0123/nfactask2024/blob/main/sc3.png)
-![](https://github.com/Bwe0123/nfactask2024/blob/main/sc2.png)
-![](https://github.com/Bwe0123/nfactask2024/blob/main/sc1.png)
-## Запуск
-Главная страница лежит в html index.html. Запустить нужно с использованием Extension'а "Live Server"
+## Screenshots
+![]([https://github.com/Bwe0123/GameJam2024/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-21%20231038.png)
+![](https://github.com/Bwe0123/GameJam2024/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-21%20231051.png)
+![](https://github.com/Bwe0123/GameJam2024/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-21%20231121.png)
+![](https://github.com/Bwe0123/GameJam2024/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-21%20231140.png)
+## Begin game
+ Launch via MainMap.py
